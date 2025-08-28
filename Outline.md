@@ -138,6 +138,14 @@ Schedule a short, recurring “ground truth” session where lower-power partici
 
 ⸻
 
+Where the Three Layers Show Up
+
+Layer 1 is the simple flow above.
+Layer 2 shows up as sidebars in each chapter with quick checks and prompts.
+Layer 3 lives in the appendix as a longer protocol for structured talks.
+
+⸻
+
 Bottom line
 
 Misunderstanding is natural; polarization is optional. By making meanings, motives, and power legible, we can stand together on a higher layer—one built from shared principles that survive disagreement and guide action.
