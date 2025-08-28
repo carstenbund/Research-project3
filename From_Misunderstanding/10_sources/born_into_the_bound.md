@@ -1,4 +1,4 @@
-this is another version of inherited responsibility.
+this is a text about inherited responsibility.
 
 ## Born into the Bond: Responsibility, Blame, and the Inherited Terrain of Tribal Belonging
 
