@@ -7,6 +7,13 @@ The priciples work for professional, private and even public discurse.
 
 Misunderstandings aren’t bugs in human interaction—they’re the default. We each carry different assumptions, incentives, and power positions into the same room. Once we see why confusion arises naturally, we can work with it to build a shared layer of integrity that most people can stand on—even when we disagree.
 
+This guide works through three meta layers:
+1. **Layer 1 — Everyday Flow:** seven-step protocol for real conversations.
+2. **Layer 2 — Symbolic Hints:** sidebars cueing higher ground (tone checks, lineage, attractors, entropy compression, grace bids, archetype swaps, grammar rotation, temperature pings, counter‑folds).
+3. **Layer 3 — Practitioner Protocol:** a 90‑minute session template with diagnostics, instruments, and rituals for facilitators.
+
+Readers can use Layer 1 alone, add Layer 2 for reflection, and consult Layer 3 as an appendix-level manual.
+
 ⸻
 
 1) Why Misunderstanding Happens (Naturally)
@@ -130,7 +137,7 @@ Schedule a short, recurring “ground truth” session where lower-power partici
 
 ⸻
 
-7) A Simple Flow You Can Use Tomorrow
+7) A Simple Flow You Can Use Tomorrow (Layer 1)
 	1.	Clarify terms (close the ambiguity gap).
 	2.	Disclose dependencies (explain your pressures).
 	3.	Balance adaptation (share the burden of adjusting).
@@ -144,8 +151,19 @@ Schedule a short, recurring “ground truth” session where lower-power partici
 Where the Three Layers Show Up
 
 Layer 1 is the simple flow above.
-Layer 2 shows up as sidebars in each chapter with quick checks and prompts.
-Layer 3 lives in the appendix as a longer protocol for structured talks.
+
+Layer 2 appears as sidebars highlighting symbolic hints:
+- Feeling before form – tone check and somatic scan.
+- Identity as symbolic compiler – trace the belief's lineage and change‑log.
+- Quantum potential to symbolic attractors – name the pull and sample it.
+- Entropy, grace, and symbolic gravity – compress the story and invite a grace bid.
+- Love as the first field – lead with a care gesture.
+- Mythic memory – surface archetypes and invite a balancing role.
+- Grammar as collapse function – rotate **I / We / It** frames.
+- Symbolic thermometer – track state shifts; reset at 4/5.
+- Fate as folded flow – notice repeating patterns and try a counter‑fold.
+
+Layer 3 lives in the appendix as a practitioner protocol: a 90‑minute coherence session with diagnostics, instruments (symbolic thermometer, grace log, archetype watch), rituals (tone set, grammar rotation, dependency disclosure, grace bids, mythic mirror), micro-practices, and domain-specific applications.
 
 ⸻
 
