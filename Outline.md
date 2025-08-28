@@ -1,4 +1,6 @@
-From Misunderstanding to Higher Common Ground
+Title: Common ground makes common sense
+
+Subtitle: From Misunderstanding to Higher Common Ground
 
 A descriptive, example-rich guide for real conversations
 
