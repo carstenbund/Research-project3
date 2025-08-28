@@ -4,13 +4,16 @@ Instructions file for agent.
 
 - not everything needs to be done immidiately - I propose several iterations:
 first iteration, create scaffold.
-second iteration, add material.
+second iteration, add material,
 third iteration, create coherent chapters.
+forth iteration, based on the chapters, develop the layers.
 maybe more..
 
 ## Layered Approach
 
 The project runs on three meta layers:
+Layer 1 is the obvious observable.
+layer 1 is to be developed first.
 
 - **Layer 1 – Everyday Flow:** seven-step protocol for real conversations.
 - **Layer 2 – Symbolic Hints:** sidebars with nine cues pointing to higher ground:
