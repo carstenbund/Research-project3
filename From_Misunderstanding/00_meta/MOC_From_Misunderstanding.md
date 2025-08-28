@@ -8,3 +8,4 @@
 - [Chapter 5 — Our Reach for a Universal Layer](../40_chapters/05.md)
 - [Chapter 6 — How to Climb Toward Higher Common Ground](../40_chapters/06.md)
 - [Chapter 7 — A Simple Flow You Can Use Tomorrow](../40_chapters/07.md)
+- [Comprehensive Draft](../30_drafts/book_draft.md)
