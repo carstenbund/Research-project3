@@ -16,6 +16,26 @@ Readers can use Layer 1 alone, add Layer 2 for reflection, and consult Layer 
 
 ⸻
 
+0) Personal Core and the Roots of Truth
+
+Our **personal core**—the values and stories that anchor identity—shapes what feels true.
+        •       A teenager raised on open debate trusts dialogue over hierarchy.
+        •       Someone taught to “keep the peace” equates silence with safety.
+
+Truth emerges where core meets shared reality.
+        •       Street facts can differ from textbook facts until a shared test settles them.
+        •       A scientist trusts peer review; a pastor trusts scripture and lived witness.
+
+Society layers rules to secure survival.
+        •       When food and shelter are scarce, groups enforce sharing and safety (see **Maslow’s pyramid**, a model of needs from basics to purpose).
+        •       Once secure, norms branch into belonging, esteem, and self-actualization.
+
+People belong to a **tribe**—a group with shared norms and identity—in two ways.
+        •       **Born into the bond:** a child inherits a family, clan, or nation with preset roles and protections.
+        •       **Join a tribe:** an adult chooses a new community—online guild, profession, congregation—seeking a better fit with their core.
+
+Key insight: Knowing your core, testing truth together, and choosing aligned tribes opens the path to higher ground.
+
 1) Why Misunderstanding Happens (Naturally)
 
 Different defaults, same words.
