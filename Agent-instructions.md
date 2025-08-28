@@ -1,11 +1,11 @@
-Research_Agent_Template — Reader Edition (Filled for “From Misunderstanding to Higher Common Ground”)
 
-Copy this file into your vault as Research_Agent_Template.md (or Agent_Guide.md). It’s tuned for a regular-reader book project, not an academic research report.
 
-⸻
+Instructions file for agent.
+1. iteration
+
 
 1) Project Overview
-	•	Project Title: From Misunderstanding to Higher Common Ground
+	•	Project Work Title: From Misunderstanding to Higher Common Ground
 	•	Objective / Thesis: Misunderstandings are the default in human interaction. By making meanings, motives, power, and values explicit, readers can build a shared layer of integrity that survives disagreement and guides action.
 	•	Scope: Everyday conversations across family, work, and civic life; practical tools (vignettes, prompts, checklists) grounded in realistic situations. Out-of-scope: therapy, legal advice, partisan hot-takes, deep academic debates.
 	•	Audience: Educated general readers; team leads; community organizers; parents; students.
