@@ -27,8 +27,8 @@ Truth emerges where core meets shared reality.
         •       A scientist trusts peer review; a pastor trusts scripture and lived witness.
 
 Society layers rules to secure survival.
-        •       When food and shelter are scarce, groups enforce sharing and safety (see **Maslow’s pyramid**, a model of needs from basics to purpose).
-        •       Once secure, norms branch into belonging, esteem, and self-actualization.
+        •       When basics are threatened, groups reorganize around safety and sharing.
+        •       Once stability returns, debates shift to belonging, esteem, and purpose.
 
 People belong to a **tribe**—a group with shared norms and identity—in two ways.
         •       **Born into the bond:** a child inherits a family, clan, or nation with preset roles and protections.
@@ -48,37 +48,38 @@ We smooth things over to keep flow.
 	•	In cross-cultural talk, you overlook small errors to stay connected.
 	•	At work, you don’t nitpick a minor misinterpretation to preserve goodwill.
 
-Key insight: Misunderstanding is baked in by ambiguity and social smoothing. It’s not moral failure; it’s how humans maintain momentum.
+Key insight: Ambiguity keeps speech light; smoothing keeps peace—together they manufacture misunderstanding.
 
 ⸻
 
-2) The Social Physics Behind “Truth”
+2) How Dependency and Recognition Bend “Truth”
 
 Dependence shapes belief.
-	•	A junior employee publicly supports a decision they privately doubt (job security).
-	•	Someone downplays climate concerns at a family dinner (emotional/financial reliance).
-	•	A public figure echoes party lines to sustain their network.
+        •       At Thanksgiving, Maya softens climate facts to protect her parents' coal contract.
 
-Freedom without legitimacy is ignored.
-	•	A homeless person’s valid critique is dismissed as irrelevant.
-	•	A child calls out hypocrisy (“But you said not to lie!”) and is gently ignored.
-	•	Whistleblowers aren’t believed until validated by status.
+Debts steer public stance.
+        •       A city councilmember echoes her party line to keep funding and favor.
 
-Key insight: What we call “truth” often tracks dependencies and recognition, not just evidence.
+Recognition decides whose truth lands.
+        •       Technician Omar's warning is ignored until a consultant repeats it.
+        •       A homeless man’s shelter critique gains traction only when voiced by a nonprofit director.
+
+Key insight: Truth rides on debt and recognition before it ever rides on data.
 
 ⸻
 
-3) Power Tilts the Conversation
+3) How Power Assigns the Adaptation Load
 
 Who adapts to whom?
-	•	A waitress smiles through rudeness; the customer feels no need to adjust.
-	•	Junior staff modulate tone; leaders speak freely.
-	•	Children read adult moods; adults rarely adapt to children.
+        •       A waitress endures customer sarcasm to keep her tip.
+
+Public roles magnify the slope.
+        •       Town hall volunteers reshuffle agendas around the mayor’s lateness.
 
 Power can isolate.
-	•	A CEO misses ground realities because feedback gets filtered.
-	•	Celebrities sound tone-deaf from long-term distance to everyday life.
-	•	Politicians overestimate support when advisors curate their inputs.
+        •       Grandma Rosa misses household strain while others handle repairs.
+        •       CEOs hear praise while trouble stays hidden.
+        •       Celebrities tweet “budget” tips detached from real costs.
 
 Key insight: The higher you are in a gradient, the less you must adapt—and the less you hear.
 
@@ -101,7 +102,7 @@ We judge actions by perceived intent.
 	•	Environmental policy vs. jobs in carbon-heavy sectors—both claim the good.
 	•	Families clash over “what’s best” for an aging parent.
 
-Key insight: Disagreement often hides mismatched clocks (speed), yardsticks (integrity), and lenses (motive, good).
+Key insight: Conflicts often mask mismatched clocks, yardsticks, and lenses.
 
 ⸻
 
