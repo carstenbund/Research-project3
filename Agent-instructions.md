@@ -1,8 +1,12 @@
 
 
 Instructions file for agent.
-1. iteration
 
+- not everything needs to be done immidiately - I propose several iterations:
+first iteration, create scaffold.
+second iteration, add material.
+third iteration, create coherent chapters.
+maybe more..
 
 ## 2) Project Overview
 	•	Project Work Title: From Misunderstanding to Higher Common Ground
