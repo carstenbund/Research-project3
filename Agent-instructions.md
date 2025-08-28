@@ -26,7 +26,7 @@ layer 1 is to be developed first.
   7. *Grammar as collapse function* – rotate **I / We / It** frames.
   8. *Symbolic thermometer* – track state shifts; reset at 4/5.
   9. *Fate as folded flow* – notice repeating patterns and try a counter‑fold.
-- **Layer 3 – Practitioner Protocol:** a 90‑minute session template with diagnostics, instruments (thermometer, grace log, archetype watch), rituals, and micro‑practices for facilitators.
+- **Layer 3 – Practitioner Protocol:** potentially - a 90‑minute session template with diagnostics, instruments (thermometer, grace log, archetype watch), rituals, and micro‑practices for facilitators.
 
 Use Layer 1 alone for general audiences; Layer 2 appears as callouts; Layer 3 serves as an appendix-level operations manual.
 
