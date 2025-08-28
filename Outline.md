@@ -2,7 +2,8 @@ Title: Common ground makes common sense
 
 Subtitle: From Misunderstanding to Higher Common Ground
 
-A descriptive, example-rich guide for real conversations
+A descriptive, example-rich guide for real conversations, in any setting.
+The priciples work for professional, private and even public discurse.
 
 Misunderstandings aren’t bugs in human interaction—they’re the default. We each carry different assumptions, incentives, and power positions into the same room. Once we see why confusion arises naturally, we can work with it to build a shared layer of integrity that most people can stand on—even when we disagree.
 
