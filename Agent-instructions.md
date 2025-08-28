@@ -4,7 +4,7 @@ Instructions file for agent.
 1. iteration
 
 
-1) Project Overview
+## 2) Project Overview
 	•	Project Work Title: From Misunderstanding to Higher Common Ground
 	•	Objective / Thesis: Misunderstandings are the default in human interaction. By making meanings, motives, power, and values explicit, readers can build a shared layer of integrity that survives disagreement and guides action.
 	•	Scope: Everyday conversations across family, work, and civic life; practical tools (vignettes, prompts, checklists) grounded in realistic situations. Out-of-scope: therapy, legal advice, partisan hot-takes, deep academic debates.
@@ -21,7 +21,7 @@ Instructions file for agent.
 
 ⸻
 
-2) General Requirements
+## 2) General Requirements
 	•	Keep voice consistent with existing outline and draft.
 	•	Use accessible language; define terms on first use (one line, bolded term).
 	•	Quote sparingly and only when it adds clarity; include a source link or footnote if used.
@@ -31,7 +31,7 @@ Instructions file for agent.
 
 ⸻
 
-3) Standard Deliverables
+## 3) Standard Deliverables
 	•	Chapter drafts with clear headings and short transitions.
 	•	Expanded vignettes for every bullet in the outline.
 	•	Practical “Direct-Use Moves” (Chapter 6) as mini playbooks.
@@ -42,9 +42,9 @@ Instructions file for agent.
 
 ⸻
 
-4) Scope Specification Pattern (per Unit/Section)
+## 4) Scope Specification Pattern (per Unit/Section)
 
-Fill this for each chapter or subsection you work on.
+#### Fill this for each chapter or subsection you work on.
 	•	Unit Title: e.g., “Chapter 1 — Why Misunderstanding Happens (Naturally)”
 	•	Focused Questions: 3–7 guiding questions the section must answer.
 	•	Depth / Length: e.g., 1,800–2,200 words + 6–8 vignettes.
@@ -58,7 +58,7 @@ Write a ~2,000-word chapter explaining why misunderstanding is natural. Expand a
 
 ⸻
 
-5) Task Instruction Structure (per Task)
+## 5) Task Instruction Structure (per Task)
 	•	Task Name: short, action-oriented
 	•	Brief Description: 1–2 sentences
 	•	Goal (Outcome): what “done” achieves
@@ -88,9 +88,9 @@ Step-By-Step
 
 ⸻
 
-6) Reusable Task Card (copy/paste)
+## 6) Reusable Task Card (copy/paste)
 
----
+```
 type: writing-task
 status: {{todo|in-progress|review|complete}}
 priority: {{low|med|high}}
@@ -128,6 +128,7 @@ due: {{YYYY-MM-DD}}
 - [ ] Definitions on first use
 - [ ] Voice consistent with book
 - [ ] File saved at {{path}} and linked in MOC
+```
 
 Three pre-filled cards for this project
 	1.	Expand Chapter 1 Vignettes
@@ -150,7 +151,7 @@ Three pre-filled cards for this project
 
 ⸻
 
-7) Comparison & Bridging Tasks (Generic)
+## 7) Comparison & Bridging Tasks (Generic)
 
 Use when contrasting book concepts (e.g., Integrity vs. Speed vs. Motive).
 	•	Task Name: Comparative Analysis of Integrity vs. Speed vs. Motive
@@ -171,7 +172,7 @@ Tie-breaker use
 
 ⸻
 
-8) Style & Voice Guide
+## 8) Style & Voice Guide
 	•	Lead with concrete scenes; keep analysis to short, clear paragraphs.
 	•	Define terms once, then reuse consistently; link to Glossary.
 	•	Use analogies sparingly and only to illuminate a step or choice.
@@ -180,14 +181,14 @@ Tie-breaker use
 
 ⸻
 
-9) Citation Requirements
+## 9) Citation Requirements
 	•	Most material is experiential and example-driven; cite only when quoting facts/definitions.
 	•	If cited, include a stable link (inline or footnote).
 	•	No long quote blocks unless essential (≤25 words preferred).
 
 ⸻
 
-10) Recommended Workflow (Checklist)
+## 10) Recommended Workflow (Checklist)
 	1.	Confirm unit scope and outputs.
 	2.	Sketch a quick outline (H2/H3 + where vignettes land).
 	3.	Draft vignettes first, then connective tissue.
@@ -198,7 +199,7 @@ Tie-breaker use
 
 ⸻
 
-11) Obsidian Integration
+## 11) Obsidian Integration
 
 Folder Structure (suggested)
 
