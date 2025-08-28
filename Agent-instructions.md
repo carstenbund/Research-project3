@@ -56,6 +56,11 @@ Use Layer 1 alone for general audiences; Layer 2 appears as callouts; Layer 3
 	•	Maintain realistic, diverse settings in vignettes (work/family/civic).
 	•	Prefer reputable, plain-language sources when needed (e.g., defining “zipper merge” or “pre-registration” in science).
 
+### Source & Glossary Sync
+        •       Whenever adding a file to From_Misunderstanding/10_sources/, also:
+                •       Add an entry to From_Misunderstanding/60_index/.
+                •       Cross-link relevant glossary terms in From_Misunderstanding/50_glossary/.
+
 ⸻
 
 ## 3) Standard Deliverables
