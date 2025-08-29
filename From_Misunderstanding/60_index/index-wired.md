@@ -1,4 +1,11 @@
 # Index (Wired)
 
+- [Adaptation load](../40_chapters/04-how-power-assigns-the-adaptation-load.md#who-adapts-to-whom)
 - [Ambiguity](../40_chapters/02-why-misunderstanding-happens-naturally.md#c1-ambiguity)
+- [Dependency](../40_chapters/03-how-dependency-and-recognition-bend-truth.md#dependence-shapes-belief)
+- [Greater good](../40_chapters/05-integrity-motive-and-speed-of-change.md#the-greater-good-is-contested-terrain)
+- [Integrity](../40_chapters/05-integrity-motive-and-speed-of-change.md#integrity-is-context-rated)
+- [Legitimacy](../40_chapters/03-how-dependency-and-recognition-bend-truth.md#recognition-decides-whose-truth-lands)
+- [Motive](../40_chapters/05-integrity-motive-and-speed-of-change.md#we-judge-actions-by-perceived-intent)
+- [Power gradient](../40_chapters/04-how-power-assigns-the-adaptation-load.md#power-can-isolate)
 - [Social smoothing](../40_chapters/02-why-misunderstanding-happens-naturally.md#c1-social-smoothing)
