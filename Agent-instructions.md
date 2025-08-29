@@ -169,13 +169,13 @@ Three pre-filled cards for this project
 
 	•	Goal: Replace all bullets in Chapter 1 with 6–8 vivid vignettes (70–120 words), each ending in a one-line takeaway.
 	•	Requirements: Define ambiguity and social smoothing once; include work/family/civic scenes.
-	•	Deliverable: 30_drafts/01_why_misunderstanding.md → merged into 40_chapters/01.md.
+	•	Deliverable: 30_drafts/01_why_misunderstanding.md → merged into 40_chapters/02-why-misunderstanding-happens-naturally.md.
 
 	2.	Format Chapter 6 “Direct-Use Moves”
 
 	•	Goal: Convert each of the 8 moves into mini playbooks (Prompt, How-to (3 bullets), Pitfall, Measure).
 	•	Requirements: Cross-reference at least one vignette per move.
-	•	Deliverable: 30_drafts/06_moves_playbook.md → 40_chapters/06.md.
+	•	Deliverable: 30_drafts/06_moves_playbook.md → 40_chapters/07-how-to-climb-toward-higher-common-ground.md.
 
 	3.	Create “Simple Flow” Card
 
@@ -250,7 +250,7 @@ From_Misunderstanding/
 
 Key Files
 	•	00_meta/MOC_From_Misunderstanding.md (map of content)
-	•	40_chapters/01.md … 07.md
+	•	40_chapters/00-preface.md … 08-a-simple-flow-you-can-use-tomorrow.md
 	•	60_index/index-alpha.md, index-wired.md
 	•	50_glossary/*.md
 
