@@ -1,4 +1,4 @@
-# Chapter 6 — How to Climb Toward Higher Common Ground
+# Chapter 9 — How to Climb Toward Higher Common Ground
 
 These eight moves translate the book’s insights into actions you can try tomorrow. Coming down from our search for a common sky, practised lightly but often, they build the muscle of shared integrity.
 

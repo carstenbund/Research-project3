@@ -16,6 +16,10 @@ Misunderstanding isn’t a rare glitch. Building on the roots of personal identi
 
 > Jamal led a software stand-up where the VP said the latest build was "basically done." The junior developers exchanged glances; half the features were still in draft. None spoke up, hoping to avoid a public clash. Two days later the release stalled, and the team spent a frantic night rewriting code the VP assumed already existed.
 
+## The Mind’s Hidden Defaults: How Cognitive Shortcuts Build Bad Maps
+
+Before we even speak, our brains take shortcuts. We are wired to seek evidence that confirms our beliefs (confirmation bias) and to judge others' character while excusing our own circumstances (fundamental attribution error). These are not moral failings; they are the mind’s default settings for saving energy. Naming them helps us see that much of what looks like malice is actually just mental autopilot.
+
 ## Key insight
 
 Ambiguity keeps speech light; smoothing keeps peace—together they manufacture misunderstanding.
