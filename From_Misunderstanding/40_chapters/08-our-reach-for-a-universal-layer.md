@@ -1,4 +1,4 @@
-# Chapter 5 — Our Reach for a Universal Layer
+# Chapter 7 — Our Reach for a Universal Layer
 
 Even as cultures clash, people keep reaching for principles that hold beyond tribe. After wrestling with integrity, motive, and competing clocks, we look for a universal layer—a common sky—where truth and justice feel bigger than any single story.
 
@@ -24,7 +24,7 @@ Common values show up most clearly when stakes spike or games begin. Disasters f
 
 **Key insight:** There is a layer many can share; we touch it most easily under pressure or play.
 
-Reaching for that shared sky naturally raises the question of how to climb toward it in daily conversations, which the next chapter tackles with concrete moves.
+Reaching for that shared sky naturally raises a harder question: what if understanding doesn't yield agreement? The next chapter explores that far side before we learn how to climb toward it in daily conversations.
 
 **Reflection questions**
 1. When have you felt part of something larger than your usual group?

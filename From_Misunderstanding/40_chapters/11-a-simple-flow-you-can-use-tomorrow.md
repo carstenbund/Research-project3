@@ -1,4 +1,4 @@
-# Chapter 7 — A Simple Flow You Can Use Tomorrow
+# Chapter 10 — A Simple Flow You Can Use Tomorrow
 
 When time is tight, this seven-step checklist keeps conversations grounded. Distilling the eight moves into a portable form, you can run through it in order or grab the step you need most.
 

@@ -1,4 +1,4 @@
-# Chapter 4 — Integrity, Motive, and Speed of Change
+# Chapter 5 — Integrity, Motive, and Speed of Change
 
 We often assume integrity and speed should align, yet different worlds honor different tempos. After naming how power tilts conversations, we see arguments flare when we judge by our own clock without seeing the motives and values steering the other side.
 
