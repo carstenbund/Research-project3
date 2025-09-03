@@ -181,7 +181,7 @@ Three pre-filled cards for this project
 
 	•	Goal: Produce a one-page, print-ready text for Chapter 7’s flow; add a 10-minute micro-meeting variant.
 	•	Requirements: Seven steps with micro-prompts; no jargon.
-	•	Deliverable: 40_assets/simple-flow-card.md (ready to export to PDF).
+	•	Deliverable: 45_assets/simple-flow-card.md (ready to export to PDF).
 
 ⸻
 
@@ -243,7 +243,7 @@ From_Misunderstanding/
   20_notes/              # scratch, comparisons, matrices
   30_drafts/             # chapter drafts
   40_chapters/           # stitched chapters ready for review
-  40_assets/             # flow card, diagrams
+  45_assets/             # flow card, diagrams
   50_glossary/           # glossary entries
   60_index/              # index alpha/wired
   99_archive/
